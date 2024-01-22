@@ -1,0 +1,11 @@
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\bin\Debug\VPLaboratoryWork1.exe.config
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\bin\Debug\VPLaboratoryWork1.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\bin\Debug\VPLaboratoryWork1.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.csproj.AssemblyReference.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.Properties.Resources.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.csproj.GenerateResource.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\VPLaboratoryWork1\VPLaboratoryWork1\obj\Debug\VPLaboratoryWork1.Form1.resources
